@@ -1,6 +1,5 @@
 ## Hi there 👋
 ### I am **Nickf2k**
-[![Nickf2k's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickf2k)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -12,4 +11,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/him
 - ⚡
+
+  [![Github Stats](https://github-readme-stats.vercel.app/api?username=nickf2k)](https://github.com/anuraghazra/github-readme-stats)
+
 
