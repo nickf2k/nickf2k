@@ -13,6 +13,3 @@
 
   
 ![Nickf2k's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickf2k&theme=chartreuse-dark)
-
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes) 
