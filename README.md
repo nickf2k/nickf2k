@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/him
 
   
-![Nickf2k's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickf2k&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark)
+![Nickf2k's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickf2k&theme=chartreuse-dark)
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickf2k)](https://github.com/anuraghazra/github-readme-stats)
