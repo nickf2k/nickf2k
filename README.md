@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Flutter/Mobile projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter, Dart
-- 📫 How to reach me:  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nickf2k)
+- 📫 How to reach me:  thienvuong.190398@gmail.com
 - 😄 Pronouns: He/him
 
 
