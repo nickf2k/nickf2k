@@ -25,7 +25,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nickf2k&icon=2&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickf2k&label=Profile%20views&color=0e75b6&style=flat" alt="nickf2k" /> </p>
 
 # Contributions
 - [flutter.dev #10964](https://github.com/flutter/website/pull/10964) - docs: add some notes about multi flavor in set up app link/universal link
